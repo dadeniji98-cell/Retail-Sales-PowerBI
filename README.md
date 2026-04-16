@@ -107,7 +107,7 @@ Relationships established:
 * Sales trends over time
 * Regional performance
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](executive-dashboard.png)
 
 ### 2. Sales Performance
 
@@ -115,7 +115,7 @@ Relationships established:
 * Sales distribution
 * Quantity analysis
 
-![Sales Dashboard](images/sales-dashboard.png)
+![Sales Dashboard](sales-dashboard.png)
 
 ### 3. Profitability Analysis
 
@@ -123,7 +123,7 @@ Relationships established:
 * Discount vs Profit relationship
 * Profit contribution by product
 
-![Profit Dashboard](images/profit-dashboard.png)
+![Profit Dashboard](profit-dashboard.png)
 
 ### 4. Customer Insights
 
@@ -131,7 +131,7 @@ Relationships established:
 * High-value customers
 * Segment performance
 
-![Customer Dashboard](images/customer-dashboard.png)
+![Customer Dashboard](customer-dashboard.png)
 
 ---
 
