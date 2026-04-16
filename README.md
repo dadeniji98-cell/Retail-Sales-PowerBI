@@ -88,7 +88,7 @@ Relationships established:
 * Sales → Products (ProductID)
 * Sales → Date Table (OrderDate)
 
-![ER Diagram](images/er-diagram.png)
+![ER Diagram](er-diagram.png)
 ---
 
 ## 🛠️ Tools & Technologies
